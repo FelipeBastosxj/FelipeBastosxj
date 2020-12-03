@@ -1,5 +1,5 @@
 
-###Hello, my name is Felipe I am Front-end Developer and UI/UX Designer. ##I am studying System and System Development for Internet
+### Hello, my name is Felipe I am Front-end Developer and UI/UX Designer. I am studying System and System Development for Internet
 
  ![Computador ilustrado](https://github.com/FelipeBastosxj/FelipeBastosxj/blob/main/img-readm.png)
 
