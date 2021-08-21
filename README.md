@@ -4,7 +4,7 @@
  ![Computador ilustrado](https://github.com/FelipeBastosxj/FelipeBastosxj/blob/main/img-readm.png)
 
 
-🦄 Skills: HTML5, CSS3, JavaScript
+🦄 Skills: HTML5, CSS3, JavaScript, Vue.Js, Scrum
 
 💼 Tools: Visual Studio Code, PhotoShop, Git e GitHub.                          
 
